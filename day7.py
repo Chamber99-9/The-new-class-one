@@ -1,0 +1,1 @@
+print("Tamil Kannada Singham Goa Jaykant shikre")
